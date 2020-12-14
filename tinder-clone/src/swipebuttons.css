@@ -1,0 +1,37 @@
+.swipebuttons{
+    position : fixed;
+    bottom : 8vh;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.swipebutton__repeat{
+    background-color: white;
+    box-shadow:  0px 10px 50px 0px rgba(0,0,0,0.3) !important;
+    color : #f5b748 !important;
+}
+
+.swipebutton__left{
+    background-color: white;
+    box-shadow:  0px 10px 50px 0px rgba(0,0,0,0.3) !important;
+    color: #ec5e6f !important;
+}
+
+.swipebutton__star{
+    background-color: white;
+    box-shadow:  0px 10px 50px 0px rgba(0,0,0,0.3) !important;
+    color: #62b4f9 !important;
+}
+
+.swipebutton__right{
+    background-color: white;
+    box-shadow:  0px 10px 50px 0px rgba(0,0,0,0.3) !important;
+    color : #76e2b3 !important;
+}
+
+.swipebutton__lightning{
+        background-color: white;
+        box-shadow:  0px 10px 50px 0px rgba(0,0,0,0.3) !important;
+        color : #915dd1 !important;
+}
